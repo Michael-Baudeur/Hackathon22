@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.google.mlkit.samples.codescanner.app-mergeDebugResources-20:/values-pt/values-pt.xml",
+            "outputFile": "com.google.mlkit.samples.codescanner.app-mergeDebugResources-21:/values-pt/values-pt.xml",
             "map": [
                 {
                     "source": "C:\\Users\\micha\\.gradle\\caches\\transforms-3\\0bf01dc6365c35e88edcf25de711e9fc\\transformed\\core-1.5.0\\res\\values-pt\\values-pt.xml",

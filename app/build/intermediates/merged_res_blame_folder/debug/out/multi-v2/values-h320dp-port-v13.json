@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.google.mlkit.samples.codescanner.app-mergeDebugResources-20:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+            "outputFile": "com.google.mlkit.samples.codescanner.app-mergeDebugResources-21:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\micha\\.gradle\\caches\\transforms-3\\da8786d6dce3c11f9a67984dd3beeefa\\transformed\\material-1.5.0\\res\\values-h320dp-port-v13\\values-h320dp-port-v13.xml",
+                    "source": "C:\\Users\\micha\\.gradle\\caches\\transforms-3\\bd6d0e44f2aa57426d64e02a13067df9\\transformed\\material-1.6.0\\res\\values-h320dp-port-v13\\values-h320dp-port-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

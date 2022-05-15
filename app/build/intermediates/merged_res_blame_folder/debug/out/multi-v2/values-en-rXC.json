@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.google.mlkit.samples.codescanner.app-mergeDebugResources-20:/values-en-rXC/values-en-rXC.xml",
+            "outputFile": "com.google.mlkit.samples.codescanner.app-mergeDebugResources-21:/values-en-rXC/values-en-rXC.xml",
             "map": [
                 {
                     "source": "C:\\Users\\micha\\.gradle\\caches\\transforms-3\\6b32da42693570f8885edc82c3cee515\\transformed\\appcompat-1.2.0\\res\\values-en-rXC\\values-en-rXC.xml",
